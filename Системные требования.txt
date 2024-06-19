@@ -1,0 +1,7 @@
+pip install python-telegram-bot apscheduler pytz sqlite3
+pip install python-telegram-bot
+pip install apscheduler
+pip install aiosqlite
+pip install nest_asyncio
+
+pip install --upgrade #NAME^
